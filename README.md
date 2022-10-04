@@ -4,3 +4,4 @@
 ## The famous Bert paper is here: https://aclanthology.org/N19-1423/
 ## Huggingface: https://huggingface.co/
 ## Generating access token: https://huggingface.co/settings/tokens
+## Online notebook: shorturl.at/CEHL6
